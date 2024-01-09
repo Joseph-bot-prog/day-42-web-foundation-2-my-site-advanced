@@ -1,6 +1,6 @@
 Day-42
 
-HTML and CSS is what I will be going to learn for few days as it is necessary for the upcoming lectures. First 4 modules of The Complete 2021 Web Development Bootcamp by Dr.Angelea Yu.
+HTML and CSS is what I will be going to learn for few days as it is necessary for the upcoming lectures. First 4 modules of The Complete 2021 Web Development Bootcamp by Angela Yu.
 
 What did I learn?
 
